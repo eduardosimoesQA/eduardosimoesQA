@@ -23,7 +23,7 @@ My name is Eduardo Simões, I'm 19 years old.
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=confluence&logoColor=172B4D)
 
-## 🧠 Soft Skills
+## 🧠 Skills
 
 ![Test Automation](https://img.shields.io/badge/Test_Automation-000000?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
 ![API Testing](https://img.shields.io/badge/API_Testing-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
